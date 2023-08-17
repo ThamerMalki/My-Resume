@@ -1,8 +1,4 @@
-
-// ***  Will change it later ***
-
-/*
-import { GitHubIcon, ArrowIcon, LinkedInIcon, DiscordIcon } from '@/components/icons';
+import { GitHubIcon, ArrowIcon, LinkedInIcon, DiscordIcon } from '@/components/icons';   // ***  Will change it later ***
 import Link from 'next/link';
 export default function AboutPage() {
   return (
@@ -56,4 +52,3 @@ export default function AboutPage() {
 }
 
 
-*/
