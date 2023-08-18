@@ -1,6 +1,6 @@
 # My Dev Website
 
-#### This app is built using the this tech
+#### This app is built using this tech
 
 - [Next.js](https://nextjs.org)
 - [Tailwind CSS](https://tailwindcss.com)
