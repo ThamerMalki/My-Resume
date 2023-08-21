@@ -12,11 +12,6 @@ const NavbarItems = [
     icon: FiHome,
   },
   {
-    name: 'About',
-    slug: '/about',
-    icon: FiUser,
-  },
-  {
     name: 'Projects',
     slug: '/projects',
     icon: FiZap,
@@ -30,11 +25,6 @@ const NavbarItems = [
     name: 'Links',
     slug: '/links',
     icon: FiLink,
-  },
-  {
-    name: 'Uses',
-    slug: '/uses',
-    icon: FiTag,
   },
 ];
 
